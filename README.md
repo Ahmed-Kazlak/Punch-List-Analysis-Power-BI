@@ -64,8 +64,12 @@ Data preparation steps were performed using **Power Query**:
      - Manpower  
      - Indirect Expenses  
 
-4. **Zone-Wise Analysis**:  
-   - Area chart displays the **primary punchlist value** and the **remaining value** for each zone.
+4.**Zone-Wise Analysis**:  
+   - An area chart displays the **primary punchlist value**, **rectified value**, and **remaining value** for each zone.  
+   - A **tooltip report** has been added to provide detailed insights, showing:  
+     - **Primary Value** per discipline and MEP Classification.  
+     - **Rectified Value** per discipline and MEP Classification.  
+     - **Remaining Value** per discipline and MEP Classification.
 
 5. **Timeline**:  
    - The project remediation spanned **91 days**, from **1/10/2024 to 1/12/2024**.  
