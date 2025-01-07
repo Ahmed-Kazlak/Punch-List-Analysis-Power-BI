@@ -66,10 +66,8 @@ Data preparation steps were performed using **Power Query**:
 
 4.**Zone-Wise Analysis**:  
    - An area chart displays the **primary punchlist value**, **rectified value**, and **remaining value** for each zone.  
-   - A **tooltip report** has been added to provide detailed insights, showing:  
-     - **Primary Value** per discipline and MEP Classification.  
-     - **Rectified Value** per discipline and MEP Classification.  
-     - **Remaining Value** per discipline and MEP Classification.
+   - A **tooltip page** is integrated, allowing users to hover over a desired zone to view detailed information in a table format.  
+     - The table shows the **Primary Value**, **Rectified Value**, and **Remaining Value** broken down by discipline and MEP Classification.
 
 5. **Timeline**:  
    - The project remediation spanned **91 days**, from **1/10/2024 to 1/12/2024**.  
