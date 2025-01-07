@@ -143,4 +143,5 @@ This analysis highlights the importance of structured punchlist tracking, timely
 ---
 
 ## 📊 Dashboard:
-![Alt text](https://github.com/Ahmed-Kazlak/Material-Cost-Variation-Analysis-Power-BI/blob/main/Material%20Cost%20Variation%20Analysis.png](https://github.com/Ahmed-Kazlak/Punch-List-Analysis-Power-BI/blob/main/Punch%20List%20Analysis.pdf)
+![Alt text](https://github.com/Ahmed-Kazlak/Punch-List-Analysis-Power-BI/blob/main/On-Site%20Analysis.png)
+![Alt text](https://github.com/Ahmed-Kazlak/Punch-List-Analysis-Power-BI/blob/main/Final%20Status.png)
