@@ -144,8 +144,10 @@ This analysis highlights the importance of structured punchlist tracking, timely
 
 ## 📊 Dashboard:
 
-   - 📊 On-Site Analysis  
+   - 📊 On-Site Analysis
+    
 ![Alt text](https://github.com/Ahmed-Kazlak/Punch-List-Analysis-Power-BI/blob/main/On-Site%20Analysis.png)
 
-   - 🤝 Final Status  
+   - 🤝 Final Status
+     
 ![Alt text](https://github.com/Ahmed-Kazlak/Punch-List-Analysis-Power-BI/blob/main/Final%20Status.png)
